@@ -7,7 +7,7 @@ usage: detect-dupes.py [-h] [-d | -l] dirpaths [dirpaths ...]
 positional arguments:
   dirpaths      detect duplicate files in a given number of directories
 
-optional arguments:
-  -h, --help    show this help message and exit
-  -d, --delete  delete flag, delete all duplicate files
-  -l, --list    list files flag, list all duplicate files
+optional arguments: <br />
+  -h, --help    show this help message and exit <br />
+  -d, --delete  delete flag, delete all duplicate files <br />
+  -l, --list    list files flag, list all duplicate files <br />
